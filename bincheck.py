@@ -1,3 +1,5 @@
+#original script - > https://github.com/HackeRStrategy/cc-genpro1.2
+
 import getopt
 import time
 import os
